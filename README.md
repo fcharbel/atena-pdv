@@ -346,7 +346,7 @@ Altera os dados do cliente com base no `id`  do cliente recebido como parâmetro
 
 ### Cadastro de pedido
 
-Cria um novo pedido com base nos dados descritos abaixo recebidos no body da requisição e retorna as informações do pedido.
+Cria um novo pedido com base nos dados descritos abaixo recebidos no body da requisição, retorna as informações do pedido e é enviado um e-mail de confirmação de pedido para o cliente.
 
 
     POST /pedido

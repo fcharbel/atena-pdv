@@ -1,6 +1,6 @@
 # Atena PDV
 
-O desafio consiste em desenvolver uma API REST para um sistema de ponto de venda. Essa API deve permitir a realização de múltiplas operações, sendo elas: cadastro de usuário, login, listagem de categorias, filtragem de produtos por categoria, cadastro de produto, edição de produto, exclusão de produto, cadastro de cliente, cadastro de pedido e detalhamento de pedido por cliente, entre outros...
+O projeto consiste em uma API REST para um sistema de ponto de venda. Essa API permite a realização de múltiplas operações, sendo elas: cadastro de usuário, login, listagem de categorias, filtragem de produtos por categoria, cadastro de produto, edição de produto, exclusão de produto, cadastro de cliente, cadastro de pedido e detalhamento de pedido por cliente, entre outros...
 
 ![enter image description here](https://raw.githubusercontent.com/pmagalhaes2/atena-pdv/main/src/assets/atena-image.webp)
 

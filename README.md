@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## ⚠️ Dependências
 
-Antes de começar, você deve ter as seguintes ferramentas instaladas na sua máquina: [Git] ([https://git-scm.com](https://git-scm.com/)), [Node.js] ([https://nodejs.org/en/](https://nodejs.org/en/)). Como complemento, é bom tem um editor de código como o [VSCode] ([https://code.visualstudio.com/](https://code.visualstudio.com/))
+Antes de começar, você deve ter as seguintes ferramentas instaladas na sua máquina: [Git](https://git-scm.com/), [Node.js](https://nodejs.org/en/). Como complemento, é bom tem um editor de código como o [VSCode](https://code.visualstudio.com/)
 
 
 
